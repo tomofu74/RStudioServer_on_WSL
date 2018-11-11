@@ -1,4 +1,4 @@
-﻿# RStudioServer_on_WSL
+# RStudioServer_on_WSL
 
 How to install RStudio server on WSL (Windows Subsystem for Linux)
 
