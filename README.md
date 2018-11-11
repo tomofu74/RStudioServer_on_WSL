@@ -1,5 +1,7 @@
 # RStudioServer_on_WSL
 
+＜以下、失敗の記録。最終的にうまくいかない、そのうえ、ROpenのパフォーマンスが悪い＞
+
 How to install RStudio server on WSL (Windows Subsystem for Linux)
 
 1. WSL のセットアップ
@@ -32,3 +34,4 @@ $ sudo apt-get install gdebi-core
 $ wget https://download2.rstudio.org/rstudio-server-1.1.463-amd64.deb
 $ sudo gdebi rstudio-server-1.1.463-amd64.deb
 参考：　https://www.rstudio.com/products/rstudio/download-server/
+
