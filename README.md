@@ -3,7 +3,7 @@
 How to install RStudio server on WSL (Windows Subsystem for Linux)
 
 1. WSL のセットアップ
-2. Microsoft StoreからLinuxをインストール
+2. Microsoft StoreからLinuxをインストール<br>
 詳細参考：　http://www.atmarkit.co.jp/ait/articles/1608/08/news039.html
 
 3. WSLにログインして、 環境の整備。
